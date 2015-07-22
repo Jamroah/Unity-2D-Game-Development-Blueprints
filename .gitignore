@@ -221,4 +221,4 @@ pip-log.txt
 */Library/*
 */Temp/*
 */obj/*
-
+.csproj
